@@ -8,8 +8,8 @@ Using a client-server architecture, design and implement a multi-threaded server
 
 Server:
 
-`java –jar DictionaryServer.jar <port> <dictionary-file>`
+`java -jar DictionaryServer.jar <port> <dictionary-file>`
 
 Client:
 
-`java –jar DictionaryClient.jar <server-address> <server-port>`
+`java -jar DictionaryClient.jar <server-address> <server-port>`
